@@ -7,6 +7,7 @@ export default defineUserConfig({
   title: "蔚蓝空间栈",
   description: "Just playing around",
   bundler: viteBundler(),
+  dest: "dist",
   // bundler: webpackBundler(),
   theme: recoTheme({
     logo: "/logo.svg",
