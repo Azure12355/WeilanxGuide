@@ -1,5 +1,6 @@
 {
   "name": "weilanx-docs",
+  "packageManager": "pnpm@10.11.1",
   "version": "2.0.0",
   "description": "专注于教程与实践的专栏文档",
   "repository": "git@github.com:recoluan/vuepress-theme-reco-demo.git",
